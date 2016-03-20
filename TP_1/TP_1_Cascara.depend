@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458506698 source:/home/knux/Documents/github/TP_Laboratorio_1/TP_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1458506801 /home/knux/Documents/github/TP_Laboratorio_1/TP_1/funciones.h
+
