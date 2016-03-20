@@ -43,3 +43,23 @@ int multiplicar(int x, int y)
 
 
 }
+
+/**
+*\brief Recibe los dos operandos y los divide
+*/
+
+
+int dividir(int x, int y)
+{
+    float division;
+    while(0==y)
+    {
+        printf("No se puede realizar una division por 0 \nIngrese nuevamente el segundo operando: ");
+        scanf("%d",&y);
+    }
+    division=(float)x/y;
+    printf("El resultado de la division de %d y %d es: %.2f\n",x,y,division);
+
+
+}
+

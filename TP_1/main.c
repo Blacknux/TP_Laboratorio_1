@@ -44,9 +44,12 @@ int main()
                 printf("\n\n");
                 break;
             case 5:
+                dividir(x,y);
+                printf("\n\n");
                 break;
             case 6:
                 multiplicar(x,y);
+                printf("\n\n");
                 break;
             case 7:
                 break;
