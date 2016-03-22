@@ -6,11 +6,12 @@ int main()
 {
     char seguir='s';
     int opcion=0;
-    int x=0;
-    int y=0;
+    int *x=0;
+    int *y=0;
 
     while(seguir=='s')
     {
+        fflush(stdout);
         printf("1- Ingresar 1er operando (A= %i)\n"),x;
         printf("2- Ingresar 2do operando (B= %i)\n"),y;
         printf("3- Calcular la suma (A+B)\n");
