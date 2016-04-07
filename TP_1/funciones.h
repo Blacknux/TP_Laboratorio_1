@@ -1,10 +1,10 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
 
-void menu (void);
-void sum(int x, int y, int flag1,int flag2);
-int validarUnNumero(void);
-void banner(void);
+void menu (void); // Funcion menu
+void sum(int x, int y, int flag1,int flag2); // Funcion suma
+int validarUnNumero(void); // Funcion valida numero
+void banner(void); //
 void sum(int x, int y, int flag1,int flag2);
 void substraction(int x, int y,int flag1,int flag2);
 void division(int x, int y,int flag1,int flag2);
