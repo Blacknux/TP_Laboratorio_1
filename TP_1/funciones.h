@@ -43,39 +43,42 @@ void menu (void)
 
     do
     {
-        if (!flag1 && !flag2)
-        {
-
-        printf("1- Ingresar 1er operando (A= No definido)\n");
-        printf("2- Ingresar 2do operando (B= No definido)\n");
-
-
-        }
-        else
-        {
+//        if (!flag1 && !flag2)
+//        {
+//
+//        printf("1- Ingresar 1er operando (A= No definido)\n");
+//        printf("2- Ingresar 2do operando (B= No definido)\n");
+//
+//
+//        }
+//        else
+//        {
             if (!flag1)
             {
                 printf("1- Ingresar 1er operando (A= No definido)\n");
-                printf("2- Ingresar 2do operando (B= %d)\n",operating2);
+                //printf("2- Ingresar 2do operando (B= %d)\n",operating2);
 
             }
             else
             {
-                if (!flag2)
+                printf("1- Ingresar 1er operando (A= %d)\n",operating1);
+
+            }
+            if (!flag2)
                 {
-                    printf("1- Ingresar 1er operando (A= %d)\n",operating1);
+
                     printf("2- Ingresar 2do operando (B= No definido)\n");
 
                   }
                 else
                 {
-                    printf("1- Ingresar 1er operando (A= %d)\n",operating1);
+
                     printf("2- Ingresar 2do operando (B= %d)\n",operating2);
 
                 }
-            }
+           // }
 
-        }
+       // }
         printf("3- Calcular la suma (A+B)\n");
         printf("4- Calcular la resta (A-B)\n");
         printf("5- Calcular la division (A/B)\n");
