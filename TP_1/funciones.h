@@ -128,37 +128,67 @@ void menu (void)
             case 7:
                 operating1b=operating1;
 
-                if (!flag1 || operating1<=0)
+                if (!flag1 )//|| operating1<=0)
                 {
                     printf("Debe ingresar el primer operando para poder sacar el factorial\n");
-                    printf("Debe ser distinto de 0\n");
+                    //printf("Debe ser distinto de 0\n");
                 }
                 else
                 {
-                    fact=factorial(operating1b,flag1);
 
-                    printf("Es: %lld\n\n",fact);
-                }
+                    if(operating1==0)
+                    {
+                        //fact=factorial(operating1b,flag1);
+
+                        printf("El factorial de 0 es: 1 \n\n");
+
+                    }
+                    else
+                    {
+
+                        fact=factorial(operating1b,flag1);
+
+                        printf("El factorial de %d es: %lld\n\n",operating1,fact);
+                     }
+                 }
                 break;
             case 8:
 //
                addition(operating1,operating2,flag1,flag2);
+
                substraction(operating1,operating2,flag1,flag2);
+
                division(operating1,operating2,flag1,flag2);
+
                multiplication(operating1,operating2,flag1,flag2);
+
+
+
                operating1b=operating1;
 
-                if (!flag1 || operating1<=0)
+                if (!flag1 )//|| operating1<=0)
                 {
-                    printf("No se puede sacar factorial de %d \n",operating1);
+                    printf("Debe ingresar el primer operando para poder sacar el factorial\n");
+                    //printf("Debe ser distinto de 0\n");
                 }
-
                 else
                 {
-                    fact=factorial(operating1b,flag1);
 
-                    printf("El factorial de %d es: %lld\n\n",operating1,fact);
-                }
+                    if(operating1==0)
+                    {
+                        //fact=factorial(operating1b,flag1);
+
+                        printf("El factorial de 0 es: 1 \n\n");
+
+                    }
+                    else
+                    {
+
+                        fact=factorial(operating1b,flag1);
+
+                        printf("El factorial de %d es: %lld\n\n",operating1,fact);
+                     }
+                 }
                 break;
             case 9:
                 printf("Bye");
