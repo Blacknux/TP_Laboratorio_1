@@ -2,10 +2,10 @@
 #define FUNCIONES_H_INCLUDED
 
 void menu (void); // Funcion menu
-void sum(int x, int y, int flag1,int flag2); // Funcion suma
+void addition(int x, int y, int flag1,int flag2); // Funcion suma
 int validarUnNumero(void); // Funcion valida numero
 void banner(void); //
-void sum(int x, int y, int flag1,int flag2);
+//void sum(int x, int y, int flag1,int flag2);
 void substraction(int x, int y,int flag1,int flag2);
 void division(int x, int y,int flag1,int flag2);
 void multiplication(int x, int y,int flag1,int flag2);
@@ -114,7 +114,7 @@ void menu (void)
                 flag2=1;
                 break;
             case 3:
-               sum(operating1,operating2,flag1,flag2);
+               addition(operating1,operating2,flag1,flag2);
                 break;
             case 4:
                 substraction(operating1,operating2,flag1,flag2);
@@ -142,7 +142,7 @@ void menu (void)
                 break;
             case 8:
 //
-               sum(operating1,operating2,flag1,flag2);
+               addition(operating1,operating2,flag1,flag2);
                substraction(operating1,operating2,flag1,flag2);
                division(operating1,operating2,flag1,flag2);
                multiplication(operating1,operating2,flag1,flag2);
@@ -211,13 +211,13 @@ int validarUnNumero(void)
 *\param int indica si el segundo operando se cargo con un flag
 */
 
-void sum(int x, int y, int flag1,int flag2)
+void addition(int x, int y, int flag1,int flag2)
 {
-     int sumxy;
+     int addxy;
 if (flag1 == 1 && flag2 == 1)
    {
-       sumxy = x + y;
-        printf("\nEl resultado de la suma de %d y %d es: %d\n\n", x, y, sumxy);
+       addxy = x + y;
+        printf("\nEl resultado de la suma de %d y %d es: %d\n\n", x, y, addxy);
   //  printf("El resultado de la suma de %d y %d es: %d\n",x,y,suma);
 
     }
