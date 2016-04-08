@@ -3,7 +3,7 @@
 
 void menu (void); // Funcion menu
 void addition(int x, int y, int flag1,int flag2); // Funcion suma
-int validarUnNumero(void); // Funcion valida numero
+int validateNumber(void); // Funcion valida numero
 void banner(void); //
 //void sum(int x, int y, int flag1,int flag2);
 void substraction(int x, int y,int flag1,int flag2);
@@ -90,7 +90,7 @@ void menu (void)
 
 
 
-        option=validarUnNumero();
+        option=validateNumber();
 
 
 
@@ -101,7 +101,7 @@ void menu (void)
             case 1:
 
                 printf("Ingrese el primer operando: ");
-                operating1=validarUnNumero();
+                operating1=validateNumber();
                 printf("\n");
                 flag1=1;
 
@@ -109,7 +109,7 @@ void menu (void)
             case 2:
 
                 printf("Ingrese el segundo operando: ");
-                operating2=validarUnNumero();
+                operating2=validateNumber();
                 printf("\n");
                 flag2=1;
                 break;
@@ -218,16 +218,16 @@ void menu (void)
 *
 */
 
-int validarUnNumero(void)
+int validateNumber(void)
 {
-    int numero;  //printf("Ingrese un numero: ")
-    while(scanf("%d", &numero)!= 1)
+    int number;  //printf("Ingrese un numero: ")
+    while(scanf("%d", &number)!= 1)
     {
         setbuf(stdin, NULL);
         printf("Ingrese un numero: ");
 
     }
-    return numero;
+    return number;
 }
 
 
