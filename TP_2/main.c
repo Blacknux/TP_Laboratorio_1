@@ -20,7 +20,7 @@
 #include "funciones.h"
 #include "validaciones.h"
 
-#define TAM 3
+#define TAM 20
 
 
 
