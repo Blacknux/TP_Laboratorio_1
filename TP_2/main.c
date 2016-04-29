@@ -1,3 +1,17 @@
+/******************************************************************
+*Segundo TP - Carga de personas - Estructuras
+*
+*Objetivo: Realizar el ABM de personas en una array de estructuras-
+*
+*
+*
+*Versión 1.0 29/04/2016
+*
+*Autor: Nahuel Claret
+*
+*******************************************************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
