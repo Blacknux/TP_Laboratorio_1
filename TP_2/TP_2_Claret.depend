@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1461842046 source:/home/knux/Desktop/TP2OKI/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1461878314 nes.h"
+
+1461113594 /home/knux/Desktop/TP2OKI/TP_2_Cascara/validaciones.h
+
+1461842372 source:/home/knux/Desktop/TP2OKI/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"validaciones.h"
+
+1461840344 /home/knux/Desktop/TP2OKI/TP_2_Cascara/funciones.h
+
+1461295155 source:/home/knux/Desktop/TP2OKI/TP_2_Cascara/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461295154 
+
+1461854354 source:f:\1-utn\tp2oki\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1461113594 f:\1-utn\tp2oki\tp_2_cascara\validaciones.h
+
+1461878314 source:f:\1-utn\tp2oki\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"validaciones.h"
+
+1461840344 f:\1-utn\tp2oki\tp_2_cascara\funciones.h
+
+1461295154 source:f:\1-utn\tp2oki\tp_2_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461902317 source:/media/knux/16GB/1-UTN/TP2OKI/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1461113594 /media/knux/16GB/1-UTN/TP2OKI/TP_2_Cascara/validaciones.h
+
+1461902136 source:/media/knux/16GB/1-UTN/TP2OKI/TP_2_Cascara/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1461901874 source:/media/knux/16GB/1-UTN/TP2OKI/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"validaciones.h"
+
+1461902042 /media/knux/16GB/1-UTN/TP2OKI/TP_2_Cascara/funciones.h
+
+1461902136 source:/home/knux/Desktop/TP2OKI/TP_2_Cascara/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1461904330 source:/home/knux/Desktop/TP2OKI/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1461113594 /home/knux/Desktop/TP2OKI/TP_2_Cascara/validaciones.h
+
+1461903671 source:/home/knux/Desktop/TP2OKI/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"validaciones.h"
+
+1461903930 /home/knux/Desktop/TP2OKI/TP_2_Cascara/funciones.h
+
