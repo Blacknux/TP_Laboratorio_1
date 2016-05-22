@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1463859931 source:/home/knux/Documents/github/TP3/claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1463100156 /home/knux/Documents/github/TP3/claretlib.h
+
+1463934801 source:/home/knux/Documents/github/TP3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"claretlib.h"
+
