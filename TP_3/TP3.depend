@@ -14,3 +14,29 @@
 	<string.h>
 	"claretlib.h"
 
+1463859931 source:/home/knux/Documents/github/TP_Laboratorio_1/TP_3/claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1463100156 /home/knux/Documents/github/TP_Laboratorio_1/TP_3/claretlib.h
+
+1464230836 source:/home/knux/Documents/github/TP_Laboratorio_1/TP_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"claretlib.h"
+	"lib.h"
+
+1464230836 /home/knux/Documents/github/TP_Laboratorio_1/TP_3/lib.h
+
+1464230612 source:/home/knux/Documents/github/TP_Laboratorio_1/TP_3/lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+	"lib.h"
+
