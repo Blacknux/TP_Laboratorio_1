@@ -3,32 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 #include "claretlib.h"
-
-
-#define TAM 5
-void prueba(void)
-{
-
-    int i;
-    int a=0;
-    int numerito[TAM];
-
-    for(i=0; i<TAM; i++)
-    {
-        a=getInt((numerito+i),"Ingrese un numero: ","Solo numeros entre el 0 y el 2300\n",0,2300);
-
-        if (a==-1)
-        {
-            i--;
-        }
-    }
-    for(i=0; i<TAM; i++)
-    {
-        printf("La %d Ingresada es: %d\n",i+1,numerito[i]);
-    }
-
-
-}
+#define TAM 100
 
 /**
 *

@@ -440,4 +440,24 @@ void testcase(EMovie* movies,int cant)
     }
 }
 
+/**
+*\brief Valida que haya alguna pelicula en la array con isEmpty=0
+*\param movie array a utilizar
+*\param Largo del array
+*\return -1 si no hay regstradas 0 si hay al menos una .
+*/
 
+int checkEmptyArray(EMovie* movies,int cant)
+{
+    int i;
+    int retorno=-1;
+    for(i=0; i<cant; i++)
+    {
+        if(movies[i].isEmpty!=1)
+        {
+            retorno=0;
+        }
+
+    }
+    return retorno;
+}
