@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1465876312 source:c:\users\knux\desktop\claret_sa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465876312 c:\users\knux\desktop\claret_sa\arraylist.h
+
+1465233018 source:c:\users\knux\desktop\claret_sa\claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1465233018 c:\users\knux\desktop\claret_sa\claretlib.h
+
+1465871703 source:c:\users\knux\desktop\claret_sa\employee.c
+
+1465874062 source:c:\users\knux\desktop\claret_sa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+	"ArrayList.h"
+	"Employee.h"
+
+1465872145 c:\users\knux\desktop\claret_sa\employee.h
+
+1465876312 source:c:\users\knux\desktop\caso uso\claret_sa_v1\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465876312 c:\users\knux\desktop\caso uso\claret_sa_v1\arraylist.h
+
+1465233018 source:c:\users\knux\desktop\caso uso\claret_sa_v1\claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1465233018 c:\users\knux\desktop\caso uso\claret_sa_v1\claretlib.h
+
+1465871703 source:c:\users\knux\desktop\caso uso\claret_sa_v1\employee.c
+
+1465901307 source:c:\users\knux\desktop\caso uso\claret_sa_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+	"ArrayList.h"
+	"Employee.h"
+
+1465872145 c:\users\knux\desktop\caso uso\claret_sa_v1\employee.h
+
+1465901690 source:c:\users\usuario\desktop\utn\arraylist-master\caso uso\claret_sa_v1\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465901690 c:\users\usuario\desktop\utn\arraylist-master\caso uso\claret_sa_v1\arraylist.h
+
+1465901690 source:c:\users\usuario\desktop\utn\arraylist-master\caso uso\claret_sa_v1\claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1465901690 c:\users\usuario\desktop\utn\arraylist-master\caso uso\claret_sa_v1\claretlib.h
+
+1465901690 source:c:\users\usuario\desktop\utn\arraylist-master\caso uso\claret_sa_v1\employee.c
+
+1465932730 source:c:\users\usuario\desktop\utn\arraylist-master\caso uso\claret_sa_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+	"ArrayList.h"
+	"Employee.h"
+
+1465901690 c:\users\usuario\desktop\utn\arraylist-master\caso uso\claret_sa_v1\employee.h
+
+1465955038 source:c:\users\knux\desktop\caso usov1.1\claret_sa_v1\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465901690 c:\users\knux\desktop\caso usov1.1\claret_sa_v1\arraylist.h
+
+1465901690 source:c:\users\knux\desktop\caso usov1.1\claret_sa_v1\claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1465901690 c:\users\knux\desktop\caso usov1.1\claret_sa_v1\claretlib.h
+
+1465901690 source:c:\users\knux\desktop\caso usov1.1\claret_sa_v1\employee.c
+
+1465954664 source:c:\users\knux\desktop\caso usov1.1\claret_sa_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+	"ArrayList.h"
+	"Employee.h"
+
+1465901690 c:\users\knux\desktop\caso usov1.1\claret_sa_v1\employee.h
+
+1465955038 source:c:\users\knux\desktop\caso usov1.2\caso uso\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465901690 c:\users\knux\desktop\caso usov1.2\caso uso\arraylist.h
+
+1465901690 source:c:\users\knux\desktop\caso usov1.2\caso uso\claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1465901690 c:\users\knux\desktop\caso usov1.2\caso uso\claretlib.h
+
+1465901690 source:c:\users\knux\desktop\caso usov1.2\caso uso\employee.c
+
+1466041888 source:c:\users\knux\desktop\caso usov1.2\caso uso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+	"ArrayList.h"
+	"Employee.h"
+
+1465901690 c:\users\knux\desktop\caso usov1.2\caso uso\employee.h
+
